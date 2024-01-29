@@ -1,5 +1,5 @@
 # ROS2-Study
-ROS2 Study in RCI LAB
+ROS2(Humble) Study in RCI LAB
 
 #### 참고자료: 경희대학교 기계공학과 김상현 교수님 강의
 1. ROS2 의 기본 정의
@@ -9,4 +9,3 @@ ROS2 Study in RCI LAB
 5. ROS2 의 통신 - Service
 6. ROS2 의 통신 - Action
 7. ROS2의 Tools
-...
